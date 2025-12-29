@@ -1,72 +1,45 @@
 {
   "mdpType": [
     [
-      "Any",
-      "Arbitrary",
-      "Miscellaneous",
-      "All"
+      "Any,Arbitrary,Miscellaneous,All"
     ],
     [
-      "MDP",
-      "PIMDP",
-      "Markov Decision Process",
-      "Perfect Information MDP",
-      "Perfect Information Markov Decision Process"
+      "MDP,PIMDP,Markov Decision Process,Perfect Information MDP,Perfect Information Markov Decision Process"
     ],
     [
-      "POMDP",
-      "All Observationless MDPs are POMDPs. Observationless further specifies POMDPs.",
-      "Observationless MDP",
-      "UOMDP",
-      "Unobservable MDP"
+      "POMDP,All Observationless MDPs are POMDPs. Observationless further specifies POMDPs.,Observationless MDP,UOMDP,Unobservable MDP"
     ],
     [
-      "Observationless MDP",
-      "UOMDP",
-      "Unobservable MDP"
+      "Observationless MDP,UOMDP,Unobservable MDP"
     ],
     [
-      "RMDP",
-      "rMDP",
-      "Robust MDP"
+      "RMDP,rMDP,Robust MDP"
     ],
     [
-      "MEMDP",
-      "Multiple Environment MDP",
-      "Multi-Environment MDP"
+      "MEMDP,Multiple Environment MDP,Multi-Environment MDP"
     ],
     [
-      "pMDP",
-      "PMDP",
-      "Parametric MDP"
+      "pMDP,PMDP,Parametric MDP"
     ],
     [
       "Time-delayed MDP"
     ],
     [
-      "MOMDP",
-      "Multiple Objective MDP"
+      "MOMDP,Multiple Objective MDP"
     ],
     [
       "OBMDP"
     ],
     [
-      "pMC",
-      "PMC",
-      "Parametric MC",
-      "Parametric Markov Chain"
+      "pMC,PMC,Parametric MC,Parametric Markov Chain"
     ]
   ],
   "problemType": [
     [
-      "Reward Maximisation",
-      "Reward Maximization",
-      "Cost Minimisation",
-      "Cost Minimization"
+      "Reward Maximisation,Reward Maximization,Cost Minimisation,Cost Minimization"
     ],
     [
-      "Target Reward",
-      "Exact Reward"
+      "Target Reward,Exact Reward"
     ],
     [
       "Reachability"
@@ -75,14 +48,10 @@
       "Safety"
     ],
     [
-      "Büchi",
-      "Buchi"
+      "Büchi,Buchi"
     ],
     [
-      "coBuchi",
-      "coBüchi",
-      "CoBuchi",
-      "CoBüchi"
+      "coBuchi,coBüchi,CoBuchi,CoBüchi"
     ],
     [
       "Parity"
@@ -99,23 +68,16 @@
   ],
   "problemApproach": [
     [
-      "Policy Existence",
-      "Existence"
+      "Policy Existence,Existence"
     ],
     [
-      "Policy Evaluation",
-      "Evaluation"
+      "Policy Evaluation,Evaluation"
     ],
     [
-      "Policy Computation",
-      "Computation",
-      "Unspecified",
-      "Unspecified presuming computation as default",
-      ""
+      "Policy Computation,Computation,Unspecified,Unspecified presuming computation as default,"
     ],
     [
-      "Policy Improvement",
-      "Improvement"
+      "Policy Improvement,Improvement"
     ]
   ],
   "complexityClass": [
@@ -138,42 +100,34 @@
       "PP"
     ],
     [
-      "ETR",
-      "Existential theory of the reals"
+      "ETR,Existential theory of the reals"
     ],
     [
       "PSPACE"
     ],
     [
-      "EXP",
-      "EXPTIME"
+      "EXP,EXPTIME"
     ],
     [
-      "NEXP",
-      "NEXPTIME"
+      "NEXP,NEXPTIME"
     ],
     [
       "EXPSPACE"
     ],
     [
-      "Decidable not otherwise specified",
-      "Decidable"
+      "Decidable not otherwise specified,Decidable"
     ],
     [
       "Undecidable"
     ],
     [
-      "Possibly Open",
-      "Possibly Open Question",
-      "Open?"
+      "Possibly Open,Possibly Open Question,Open?"
     ],
     [
-      "Open Question",
-      "Open"
+      "Open Question,Open"
     ],
     [
-      "NPPP",
-      "NP^PP"
+      "NPPP,NP^PP"
     ]
   ],
   "complexitySuffix": [
@@ -186,27 +140,19 @@
   ],
   "horizonType": [
     [
-      "Finite Horizon",
-      "Finite"
+      "Finite Horizon,Finite"
     ],
     [
-      "Infinite",
-      "Infinite Horizon Average",
-      "Infinite Average",
-      "Infinite Horizon Discounted",
-      "Infinite Discounted"
+      "Infinite,Infinite Horizon Average,Infinite Average,Infinite Horizon Discounted,Infinite Discounted"
     ],
     [
-      "Infinite Horizon Average",
-      "Infinite Average"
+      "Infinite Horizon Average,Infinite Average"
     ],
     [
-      "Infinite Horizon Discounted",
-      "Infinite Discounted"
+      "Infinite Horizon Discounted,Infinite Discounted"
     ],
     [
-      "Not Clearly Stated",
-      ""
+      "Not Clearly Stated,"
     ],
     [
       "Other"
@@ -214,8 +160,7 @@
   ],
   "determinism": [
     [
-      "Deterministic",
-      "Pure"
+      "Deterministic,Pure"
     ],
     [
       "Randomized"
@@ -229,20 +174,13 @@
       "Stationary"
     ],
     [
-      "Nonstationary",
-      "Nonstationary General",
-      "Time-dependent",
-      "Time",
-      "History-dependent",
-      "History"
+      "Nonstationary,Nonstationary General,Time-dependent,Time,History-dependent,History"
     ],
     [
-      "Time-dependent",
-      "Time"
+      "Time-dependent,Time"
     ],
     [
-      "History-dependent",
-      "History"
+      "History-dependent,History"
     ]
   ],
   "policyMemory": [
@@ -250,12 +188,10 @@
       "Finite"
     ],
     [
-      "Infinite",
-      "infinite"
+      "Infinite,infinite"
     ],
     [
-      "Memoryless",
-      "None"
+      "Memoryless,None"
     ]
   ],
   "analysisType": [
@@ -263,17 +199,13 @@
       "Quantitative"
     ],
     [
-      "Qualitative",
-      "Almost-sure",
-      "Positive",
-      "Limit-sure"
+      "Qualitative,Almost-sure,Positive,Limit-sure"
     ],
     [
       "Almost-sure"
     ],
     [
-      "Positive",
-      "Possible"
+      "Positive,Possible"
     ],
     [
       "Limit-sure"
@@ -295,8 +227,7 @@
       "s-rectangular"
     ],
     [
-      "(s,a)-rectangular",
-      "s,a-rectangular"
+      "(s,a)-rectangular,s,a-rectangular"
     ]
   ],
   "ambiguitySetConvexness": [
@@ -320,11 +251,7 @@
   ],
   "special": [
     [
-      "COMMENT:",
-      "Special categories are ment to be exclusive, not inclusive.",
-      "As to say, these will not be included unless you enable either",
-      "all special or that specific one, itll not display.",
-      "(for now, its enabled by default to show all)"
+      "COMMENT:,Special categories are ment to be exclusive, not inclusive.,As to say, these will not be included unless you enable either,all special or that specific one, itll not display.,(for now, its enabled by default to show all)"
     ],
     [
       "2-MEMDP"
@@ -339,8 +266,7 @@
       "Atypical reward shape"
     ],
     [
-      "pMDP-Fixed number of parameters",
-      "Fixed number of parameters"
+      "pMDP-Fixed number of parameters,Fixed number of parameters"
     ]
   ],
   "proofType": [
