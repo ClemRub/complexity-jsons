@@ -1,9 +1,9 @@
 {
   "mdpType": [
     [
-      "Any",
-      "Arbitrary",
       "Miscellaneous",
+      "Arbitrary",
+      "Any",
       "All"
     ],
     [
@@ -75,14 +75,14 @@
       "Safety"
     ],
     [
-      "Büchi",
+      "BÃ¼chi",
       "Buchi"
     ],
     [
       "coBuchi",
-      "coBüchi",
+      "coBÃ¼chi",
       "CoBuchi",
-      "CoBüchi"
+      "CoBÃ¼chi"
     ],
     [
       "Parity"
