@@ -9,12 +9,6 @@
       "Perfect Information Markov Decision Process"
     ],
     [
-      "Miscellaneous",
-      "Arbitrary",
-      "Any",
-      "All"
-    ],
-    [
       "POMDP",
       "All Observationless MDPs are POMDPs. Observationless further specifies POMDPs.",
       "Observationless MDP",
@@ -30,6 +24,12 @@
       "RMDP",
       "rMDP",
       "Robust MDP"
+    ],
+    [
+      "Miscellaneous",
+      "Arbitrary",
+      "Any",
+      "All"
     ],
     [
       "MEMDP",
