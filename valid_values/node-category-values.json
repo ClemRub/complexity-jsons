@@ -1,17 +1,18 @@
 {
   "mdpType": [
-    [
-      "Miscellaneous",
-      "Arbitrary",
-      "Any",
-      "All"
-    ],
+    
     [
       "MDP",
       "PIMDP",
       "Markov Decision Process",
       "Perfect Information MDP",
       "Perfect Information Markov Decision Process"
+    ],
+    [
+      "Miscellaneous",
+      "Arbitrary",
+      "Any",
+      "All"
     ],
     [
       "POMDP",
