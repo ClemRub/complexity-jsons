@@ -1,0 +1,9 @@
+{
+  "dir":"https://raw.githubusercontent.com/ClemRub/complexity-jsons/main/complexity_graph_configs",
+  "configs":[
+  "MDPs.json",
+  "POMDPs.json",
+  "miscellaneous.json",
+  "nograph.json"
+  ]
+}
