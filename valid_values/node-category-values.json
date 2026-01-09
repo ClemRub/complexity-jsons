@@ -54,6 +54,15 @@
       "PMC",
       "Parametric MC",
       "Parametric Markov Chain"
+    ],
+    [
+      "RPOMDP",
+      "rPOMDP",
+      "Robust POMDP",
+      "UPOMDP",
+      "uPOMDP",
+      "Uncertain POMDP",
+      "POMDPIP"
     ]
   ],
   "problemType": [
