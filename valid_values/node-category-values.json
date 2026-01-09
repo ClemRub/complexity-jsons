@@ -1,6 +1,5 @@
 {
   "mdpType": [
-    
     [
       "MDP",
       "PIMDP",
@@ -10,7 +9,7 @@
     ],
     [
       "POMDP",
-      "All Observationless MDPs are POMDPs. Observationless further specifies POMDPs.",
+      "+",
       "Observationless MDP",
       "UOMDP",
       "Unobservable MDP"
