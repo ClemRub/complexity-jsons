@@ -9,7 +9,6 @@
     ],
     [
       "POMDP",
-      "+",
       "Observationless MDP",
       "UOMDP",
       "Unobservable MDP"
