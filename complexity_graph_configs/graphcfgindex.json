@@ -1,5 +1,5 @@
 {
-  [
+  "configs":[
   "MDPs.json",
   "POMDPs.json",
   "miscellaneous.json",
