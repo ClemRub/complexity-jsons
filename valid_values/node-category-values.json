@@ -1,5 +1,5 @@
 {
-  "mdpType": [
+  "": [
     [
       "MDP",
       "PIMDP",
@@ -71,7 +71,8 @@
       "Robust MC",
       "Uncertain Markov Chain",
       "UMC",
-      "uMC"
+      "uMC",
+      "Uncertain MC"
     ]
   ],
   "problemType": [
