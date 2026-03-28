@@ -68,7 +68,8 @@
       "RMC",
       "rMC",
       "Robust Markov Chain",
-      "Robust MC"
+      "Robust MC",
+      "Uncertain Markov Chain"
     ]
   ],
   "problemType": [
