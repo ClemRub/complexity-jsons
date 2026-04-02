@@ -73,6 +73,10 @@
       "UMC",
       "uMC",
       "Uncertain MC"
+    ],
+    [
+      "Stochastic Game",
+      "SG"
     ]
   ],
   "problemType": [
