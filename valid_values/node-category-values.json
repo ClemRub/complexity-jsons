@@ -365,30 +365,4 @@
       "Fixed number of parameters"
     ]
   ],
-  "new": [
-    [
-      "Reduction"
-    ],
-    [
-      "Guess and Verify"
-    ],
-    [
-      "Structure"
-    ],
-    [
-      "Parallelization"
-    ],
-    [
-      "Consequence of other proof"
-    ],
-    [
-      "Follows from different paper"
-    ],
-    [
-      "Other"
-    ],
-    [
-      "Unclear"
-    ]
-  ]
 }
