@@ -340,6 +340,32 @@
       "Compressed"
     ]
   ],
+  "proofType": [
+    [
+      "Reduction"
+    ],
+    [
+      "Guess and Verify"
+    ],
+    [
+      "Structure"
+    ],
+    [
+      "Parallelization"
+    ],
+    [
+      "Consequence of other proof"
+    ],
+    [
+      "Follows from different paper"
+    ],
+    [
+      "Other"
+    ],
+    [
+      "Unclear"
+    ]
+  ],
   "special": [
     [
       "COMMENT:",
