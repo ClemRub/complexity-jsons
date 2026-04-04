@@ -306,7 +306,12 @@
       "None"
     ],
     [
-      "Nonnegative Only"
+      "Nonnegative Only",
+      "Nonpositive Costs Only"
+    ],
+    [
+      "Positive Only",
+      "Negative Costs Only"
     ]
   ],
   "ambiguitySetRectangularity": [
