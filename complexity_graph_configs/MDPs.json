@@ -5,12 +5,12 @@
       "posX": 494.689,
       "posY": 320.716,
       "type": "ClickableGraphNode",
-      "title": "No corresponding graph exists, maybe add a new one?",
+      "title": "MDP",
       "id": "1",
       "children": [
         {
           "type": "ClickableSubNode",
-          "title": "<>",
+          "title": "Reachability",
           "id": "1.1",
           "children": [],
           "posX": 0,
