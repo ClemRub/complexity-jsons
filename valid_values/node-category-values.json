@@ -8,75 +8,11 @@
       "Perfect Information Markov Decision Process"
     ],
     [
-      "POMDP",
-      "Observationless MDP",
-      "UOMDP",
-      "Unobservable MDP"
-    ],
-    [
-      "Observationless MDP",
-      "UOMDP",
-      "Unobservable MDP"
-    ],
-    [
-      "RMDP",
-      "rMDP",
-      "Robust MDP"
-    ],
-    [
       "Miscellaneous",
       "Arbitrary",
       "Any",
-      "All"
-    ],
-    [
-      "MEMDP",
-      "Multiple Environment MDP",
-      "Multi-Environment MDP"
-    ],
-    [
-      "pMDP",
-      "PMDP",
-      "Parametric MDP"
-    ],
-    [
-      "Time-delayed MDP"
-    ],
-    [
-      "MOMDP",
-      "Multiple Objective MDP"
-    ],
-    [
-      "OBMDP"
-    ],
-    [
-      "pMC",
-      "PMC",
-      "Parametric MC",
-      "Parametric Markov Chain"
-    ],
-    [
-      "RPOMDP",
-      "rPOMDP",
-      "Robust POMDP",
-      "UPOMDP",
-      "uPOMDP",
-      "Uncertain POMDP",
-      "POMDPIP"
-    ],
-    [
-      "RMC",
-      "rMC",
-      "Robust Markov Chain",
-      "Robust MC",
-      "Uncertain Markov Chain",
-      "UMC",
-      "uMC",
-      "Uncertain MC"
-    ],
-    [
-      "Stochastic Game",
-      "SG"
+      "All",
+      "Mixed"
     ]
   ],
   "problemType": [
@@ -132,8 +68,7 @@
       "Policy Computation",
       "Computation",
       "Unspecified",
-      "Unspecified presuming computation as default",
-      ""
+      "Unspecified presuming computation as default"
     ],
     [
       "Policy Improvement",
@@ -142,26 +77,10 @@
   ],
   "complexityClass": [
     [
-      "NL"
-    ],
-    [
-      "PL"
-    ],
-    [
-      "NC"
-    ],
-    [
       "P"
     ],
     [
       "NP"
-    ],
-    [
-      "PP"
-    ],
-    [
-      "ETR",
-      "Existential theory of the reals"
     ],
     [
       "PSPACE"
@@ -169,10 +88,6 @@
     [
       "EXP",
       "EXPTIME"
-    ],
-    [
-      "NEXP",
-      "NEXPTIME"
     ],
     [
       "EXPSPACE"
@@ -192,10 +107,6 @@
     [
       "Open Question",
       "Open"
-    ],
-    [
-      "NPPP",
-      "NP^PP"
     ]
   ],
   "complexitySuffix": [
@@ -227,8 +138,7 @@
       "Infinite Discounted"
     ],
     [
-      "Not Clearly Stated",
-      ""
+      "Not Clearly Stated"
     ],
     [
       "Other"
@@ -294,8 +204,7 @@
       "Almost-sure"
     ],
     [
-      "Positive",
-      "Possible"
+      "Positive"
     ],
     [
       "Limit-sure"
@@ -373,24 +282,7 @@
   ],
   "special": [
     [
-      "COMMENT:",
-      "Special categories are ment to be exclusive, not inclusive.",
-      "As to say, these will not be included unless you enable either",
-      "all special or that specific one, itll not display.",
-      "(for now, its enabled by default to show all)"
-    ],
-    [
-      "Time-sensitive MEMDP"
-    ],
-    [
-      "MO-OBMDP"
-    ],
-    [
-      "Atypical reward shape"
-    ],
-    [
-      "pMDP-Fixed number of parameters",
-      "Fixed number of parameters"
+      "Effectively extra tags that don't fit a general category while also not requiring a full on comment or new category."
     ]
   ]
 }
