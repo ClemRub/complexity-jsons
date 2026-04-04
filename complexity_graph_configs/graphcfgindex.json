@@ -1,7 +1,7 @@
 {
   "configs": [
     "MDPs.json",
-    "nograph.json",
-    "POMDPs.json"
+    "POMDPs.json",
+    "nograph.json"
   ]
 }
