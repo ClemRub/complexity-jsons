@@ -20,6 +20,15 @@
       ],
       "childDegree": 0,
       "valueType": "Error"
+    },
+    {
+      "posX": 894,
+      "posY": 290,
+      "type": "ClickableGraphNode",
+      "title": "<>",
+      "id": "2",
+      "children": [],
+      "childDegree": 0
     }
   ],
   "connectors": []
