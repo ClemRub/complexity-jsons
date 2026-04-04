@@ -1,0 +1,81 @@
+{
+  "graphtype": "POMDP",
+  "nodes": [
+    {
+      "posX": 494.689,
+      "posY": 320.716,
+      "type": "ClickableGraphNode",
+      "title": "No corresponding graph exists, maybe add a new one?",
+      "id": "1",
+      "children": [
+        {
+          "type": "ClickableSubNode",
+          "title": "<>",
+          "id": "1.1",
+          "children": [],
+          "posX": 0,
+          "posY": 20,
+          "childDegree": 1
+        }
+      ],
+      "childDegree": 0,
+      "valueType": "Error"
+    },
+    {
+      "posX": 0,
+      "posY": 0,
+      "type": "ClickableGraphNode",
+      "title": "<>",
+      "id": "2",
+      "children": [],
+      "childDegree": 0
+    },
+    {
+      "posX": 0,
+      "posY": 0,
+      "type": "ClickableGraphNode",
+      "title": "<>",
+      "id": "3",
+      "children": [],
+      "childDegree": 0
+    },
+    {
+      "posX": 0,
+      "posY": 0,
+      "type": "ClickableGraphNode",
+      "title": "<>",
+      "id": "4",
+      "children": [],
+      "childDegree": 0
+    },
+    {
+      "posX": 0,
+      "posY": 0,
+      "type": "ClickableGraphNode",
+      "title": "<>",
+      "id": "5",
+      "children": [],
+      "childDegree": 0
+    },
+    {
+      "posX": 802,
+      "posY": 425,
+      "type": "ClickableGraphNode",
+      "title": "<>",
+      "id": "6",
+      "children": [
+        {
+          "type": "ClickableSubNode",
+          "title": "<>",
+          "id": "6.1",
+          "children": [],
+          "posX": 0,
+          "posY": 20,
+          "childDegree": 1
+        }
+      ],
+      "childDegree": 0
+    }
+  ],
+  "connectors": []
+}
