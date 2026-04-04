@@ -1,6 +1,6 @@
 {
   "configs":[
-    MDP.json,
-    nograph.json
+  "MDPs.json",
+  "nograph.json"
   ]
 }
