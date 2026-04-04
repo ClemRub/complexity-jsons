@@ -1,16 +1,35 @@
 {
-	"graphtype": "NoGraph",
-	"nodes": [
-		{
-			"posX": 494.689,
-			"posY": 320.716,
-			"type": "ClickableGraphNode",
-			"title": "No corresponding graph exists, maybe add a new one?",
-			"id": "1",
-			"children": [],
-			"childDegree": 0,
-			"valueType": "Error"
-		}
-	],
-	"connectors": []
+  "graphtype": "NoGraph",
+  "nodes": [
+    {
+      "posX": 494.689,
+      "posY": 320.716,
+      "type": "ClickableGraphNode",
+      "title": "No corresponding graph exists, maybe add a new one?",
+      "id": "1",
+      "children": [
+        {
+          "type": "ClickableSubNode",
+          "title": "<>",
+          "id": "1.1",
+          "children": [],
+          "posX": 59.31099999999998,
+          "posY": 245.284,
+          "childDegree": 1
+        }
+      ],
+      "childDegree": 0,
+      "valueType": "Error"
+    },
+    {
+      "posX": 309,
+      "posY": 564,
+      "type": "ClickableGraphNode",
+      "title": "<>",
+      "id": "2",
+      "children": [],
+      "childDegree": 0
+    }
+  ],
+  "connectors": []
 }
