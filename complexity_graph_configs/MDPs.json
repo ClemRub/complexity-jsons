@@ -1,5 +1,5 @@
 {
-  "graphtype": "NoGraph",
+  "graphtype": "MDP",
   "nodes": [
     {
       "posX": 494.689,
@@ -13,22 +13,13 @@
           "title": "<>",
           "id": "1.1",
           "children": [],
-          "posX": 59.31099999999998,
-          "posY": 245.284,
+          "posX": 0,
+          "posY": 20,
           "childDegree": 1
         }
       ],
       "childDegree": 0,
       "valueType": "Error"
-    },
-    {
-      "posX": 309,
-      "posY": 564,
-      "type": "ClickableGraphNode",
-      "title": "<>",
-      "id": "2",
-      "children": [],
-      "childDegree": 0
     }
   ],
   "connectors": []
