@@ -2,8 +2,8 @@
   "graphtype": "MDP",
   "nodes": [
     {
-      "posX": 494.689,
-      "posY": 320.716,
+      "posX": 495,
+      "posY": 321,
       "type": "ClickableGraphNode",
       "title": "MDP",
       "id": "1",
