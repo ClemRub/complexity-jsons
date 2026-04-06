@@ -30,7 +30,7 @@
         },
         {
           "type": "ClickableSubNode",
-          "title": "Infinite Horizon Undiscounted",
+          "title": "Infinite Horizon Discounted",
           "id": "4.2",
           "children": [],
           "posX": 155,
