@@ -2,82 +2,66 @@
   "graphtype": "MDP",
   "nodes": [
     {
-      "posX": 583,
-      "posY": 379,
+      "posX": 642,
+      "posY": 263,
       "type": "ClickableGraphNode",
       "title": "MDP",
-      "id": "3",
+      "id": "1",
       "children": [],
       "childDegree": 0,
       "valueType": "mdpType"
     },
     {
-      "posX": 316,
-      "posY": 459,
+      "posX": 348,
+      "posY": 334,
       "type": "ClickableGraphNode",
       "title": "Reward Maximisation",
-      "id": "4",
+      "id": "2",
       "children": [
         {
           "type": "ClickableSubNode",
-          "title": "Finite Horizon",
-          "id": "4.1",
+          "title": "Infinite Horizon Discounted",
+          "id": "2.1",
           "children": [],
-          "posX": -111,
-          "posY": 146,
+          "posX": -106,
+          "posY": 100,
           "childDegree": 1,
           "valueType": "horizonType"
         },
         {
           "type": "ClickableSubNode",
-          "title": "Infinite Horizon Discounted",
-          "id": "4.2",
+          "title": "Finite Horizon",
+          "id": "2.2",
           "children": [],
-          "posX": 155,
-          "posY": 163,
+          "posX": 173,
+          "posY": 116,
           "childDegree": 1,
-          "valueType": "Error"
+          "valueType": "horizonType"
         }
       ],
       "childDegree": 0,
       "valueType": "problemType"
     },
     {
-      "posX": 828,
-      "posY": 471,
+      "posX": 904,
+      "posY": 363,
       "type": "ClickableGraphNode",
       "title": "Reachability",
-      "id": "5",
-      "children": [
-        {
-          "type": "ClickableSubNode",
-          "title": "Finite Horizon",
-          "id": "5.1",
-          "children": [],
-          "posX": 48,
-          "posY": 108,
-          "childDegree": 1,
-          "valueType": "horizonType"
-        }
-      ],
+      "id": "6",
+      "children": [],
       "childDegree": 0,
       "valueType": "problemType"
     }
   ],
   "connectors": [
     {
-      "idFrom": "4",
-      "idTo": "4",
+      "idFrom": "2",
+      "idTo": "2.1",
       "type": "line"
     },
     {
-      "idFrom": "5",
-      "idTo": "5",
-      "type": "line"
-    },
-    {
-      "idFrom": "4",
-      "idTo": "4",
+      "idFrom": "2",
+      "idTo": "2.2",
       "type": "line"
     }
   ]
